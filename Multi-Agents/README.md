@@ -1,8 +1,8 @@
 # Multi-Agent System Memory 论文集
 
-- 整理日期：2026-09-14
-- 现有与历史收集：51 篇；围绕「Memory × 自进化评估 × 教学 Agent」定向补充：27 篇；合计：78 篇
-- 顶会：31 篇；非顶会/预印本/Findings/Workshop/期刊：47 篇
+- 整理日期：2026-09-18
+- 现有与历史收集：51 篇；围绕「Memory × 自进化评估 × 教学 Agent」定向补充：27 篇；高阶图与分层记忆补充：7 篇；合计：85 篇
+- 顶会：36 篇；非顶会/预印本/Findings/Workshop/期刊：49 篇
 - 目录层级：研究特点 / 顶会或非顶会 / 会议或来源 / 论文题目.pdf
 - “顶会”口径：NeurIPS、ICML、ICLR、ACL、EMNLP、NAACL、AAAI、IJCAI、AAMAS，以及 HCI 方向的 UIST；Findings、其他会议、期刊、Workshop 和仅 arXiv 版本归为“非顶会”。
 - arXiv 是预印本平台，不是会议或期刊；`非顶会/arXiv` 表示目前仅核实到预印本版本。
